@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c4b1896-4ff4-4c75-bf7e-d48d870d6d63" name="Default Changelist" comment="">
+    <list default="true" id="5c4b1896-4ff4-4c75-bf7e-d48d870d6d63" name="Default Changelist" comment="logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/Art.html" beforeDir="false" afterPath="$PROJECT_DIR$/Art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/css/Art.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Art.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/css/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IS117-BootstrapStarterFiles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Resume.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +52,49 @@
       <updated>1606590152072</updated>
       <workItem from="1606590153117" duration="20690000" />
       <workItem from="1606692460264" duration="10002000" />
-      <workItem from="1606765335728" duration="2505000" />
+      <workItem from="1606765335728" duration="4656000" />
     </task>
+    <task id="LOCAL-00001" summary="We moved stuff">
+      <created>1606852212607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606852212607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="logo">
+      <created>1606853084582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606853084582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="We moved stuff" />
+    <MESSAGE value="logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1606593958729">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606593958729" />
-    <state x="2760" y="418" key="Github.ShareDialog" timestamp="1606851186509">
+    <state x="2760" y="418" key="Github.ShareDialog" timestamp="1606852360534">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2760" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606851186509" />
+    <state x="2760" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606852360534" />
     <state x="2687" y="225" key="Github.UntrackedFilesDialog" timestamp="1606851196585">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2687" y="225" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606851196585" />
+    <state x="2485" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606853094526">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2485" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606853094526" />
   </component>
 </project>
