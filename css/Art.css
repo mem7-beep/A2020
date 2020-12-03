@@ -1,12 +1,11 @@
-/*background*/
-
-
-
-
-
-/* images */
-
-
+brands{
+    left: 10px;
+    bottom:10px ;
+}
+li {
+    font-family:Verdana,arial;
+    font-size: 150%
+}
 /* footer*/
 .footer {
     position: fixed;
